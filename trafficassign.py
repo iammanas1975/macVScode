@@ -1,5 +1,5 @@
 #TRAFFIC LIGHT PROBLEM FROM 'DATA STRUCTURES AND ALGORITHMS' BY HOPCROFT, ET AL.
-# #We consider 3 roads, say a, b, c; ab is a path from a to b, and so on
+#We consider 3 roads, say a, b, c; ab is a path from a to b, and so on
 #we have a graph with list of incompatible paths for a given path
 #we have to assign a color to each new path if incompatible with previous assigned ones
 curr_color = 0 #color assignment
